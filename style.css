@@ -1,0 +1,83 @@
+.main{
+    background: #99f199;
+}
+.cart{
+    background: white;
+    color: rgb(168, 166, 166);
+    width: 59%;
+    margin-left: 22%;
+    margin-top: 77px;
+}
+.price-total{
+    display: flex;
+    
+}
+.price-total h4{
+    margin-top: -7px;
+    color: rgb(63, 62, 62);
+}
+.total-price{
+    height: 20px;
+    width: 10%;
+    margin-left: 3%;
+    margin-top: -10px;
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.image img{
+    width: 90%;
+    height: 124px;
+}
+
+.cart hr{
+    color: rgb(233, 231, 231);
+}
+.img1 img{
+    margin-left: 12%;
+}
+.img3 img{
+    height: 135px;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.b-fa1{
+    margin-left: 2%;
+}
+.fa {
+    font-size: 50px;
+    cursor: pointer;
+    
+    color: gray;
+  }
+  
+
+.fa-times:hover {
+    color: black;
+}
+
+
+.square-button{
+    margin-right: -18%;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.b1{
+    margin-right: -11%;
+}
+.b2{
+    margin-right: -16%;
+}
+.quantity{
+    width: 12%;
+}
+.price{
+    width: 28%;
+    margin-right: -19%;
+    margin-top: 26px;
+}
